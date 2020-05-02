@@ -38,6 +38,6 @@ python instaBrute.py -u facebook -d dictionary.txt
 
 ## Special Thanks
 
-[@camicelli!](http://twitter.com/camicelli)
+[@cyber_mrlinkerrorsystemoffical!](http://instagram.com/cyber_mrlinkerrorsystemoffical)
 
 Gabriel Rezzonico
